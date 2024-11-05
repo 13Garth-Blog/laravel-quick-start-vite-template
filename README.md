@@ -2,6 +2,10 @@
 A quick start Laravel Vite config for project asset compiling.
 
 ## Laravel Project structure
+- Make sure you run ```npm install```
+  - Then I like to build the assets as I work on them with.<br>
+    ```npm run build```
+
 - Site images you want to be compiled to the public folder can be stored in 
   - ./storage/images/
   - Make sure you run the storage link command for Laravel.<br>
