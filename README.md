@@ -1,4 +1,4 @@
-# laravel-vite-quick-start-template
+# Laravel Vite Quick Start Template
 A quick start Laravel Vite config for project asset compiling.
 
 ## Laravel Project structure
