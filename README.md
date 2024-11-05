@@ -6,6 +6,8 @@ A quick start Laravel Vite config for project asset compiling.
   - ./storage/images/
   - Make sure you run the storage link command for Laravel.<br>
     ``` php artisan storage:link ```
+  - Then, when outputting these images to blade files. Just add "storage/."<br>
+    ```asset('storage/' . $image_path);```
  
 - JS Scripts and CSS are compiled together using javascript.
   - ./resources/
